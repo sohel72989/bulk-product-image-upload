@@ -1,6 +1,13 @@
 # Getting Started
 
-Clone the repository   git clone https://github.com/sohel72989/bulk-product-image-upload.git
+<!-- ========== How to Run ========= -->
+
+1. Clone the repository. git clone https://github.com/sohel72989/bulk-product-image-upload.git
+2. cd bulk-product-image-upload/
+3. Build the project with Maven:  mvn clean install
+4. Run the application:           mvn spring-boot:run
+5. The app will run on: http://localhost:8080
+
 
 ****************************for beackend**************************************
 
@@ -29,14 +36,6 @@ Clone the repository   git clone https://github.com/sohel72989/bulk-product-imag
 # Jackson (for JSON serialization)
 
 # File system storage (no database required)
-
-
-<!-- ========== How to Run ========= -->
-
-1. Clone the repository.
-2. Build the project with Maven:  mvn clean install
-3. Run the application:           mvn spring-boot:run
-4. The app will run on: http://localhost:8080
 
 
 
