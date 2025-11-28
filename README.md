@@ -1,6 +1,6 @@
 # Getting Started
 
-Clone the repository  
+Clone the repository   git clone https://github.com/sohel72989/bulk-product-image-upload.git
 
 ****************************for beackend**************************************
 
